@@ -16,5 +16,5 @@
 	        - dev.off()
     4. Take the tikz file that is output and put it into the appropriate folder for your other latex work (e.g., your project folder or Overleaf project)
     5. Enjoy. 
-- Important note: for MiKTeX installation, "on-the-fly" package installation much be either "Always" or "Never" but not "Ask me"
+- Important note: for MiKTeX installation, "on-the-fly" package installation must be either "Always" or "Never" but not "Ask me"
 
